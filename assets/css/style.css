@@ -122,12 +122,7 @@ section {
 }
 
 .intro {
-  text-align:center;
-}
-
-.intro h2 {
-  /* add this alongside your other declarations */
-  display: inline-block;
+  text-align: center;
 }
 
 .intro p {
@@ -143,30 +138,12 @@ section {
   background: #fce138;
 }
 
-
-.section-title {
-  font-size: 55px;
-  color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
-  display: inline-block;
-  border-bottom: 3px solid;
-}
-
-.primary-border {
-  border-color: #fce138;
-}
-
-.secondary-border {
-  border-color: #39a6b2;
-}
-
 .steps div {
   margin-bottom: 80px;
 }
 
 .steps img {
-  width: 15%
+  width: 15%;
   margin: 10px 0;
 }
 
@@ -183,4 +160,21 @@ section {
 
 .steps span {
   font-size: 38px;
+}
+
+.section-title {
+  font-size: 55px;
+  color: #024e76;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+  border-bottom: 3px solid;
+}
+
+.primary-border {
+  border-color: #fce138;
+}
+
+.secondary-border {
+  border-color: #39a6b2;
 }
